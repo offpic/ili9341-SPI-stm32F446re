@@ -1,4 +1,4 @@
-# ili9341-SPI-stm32F446re
+# ili9341-SPI-stm32F446re Touch
 
 https://www.youtube.com/watch?v=qUrYqSlEKIo
 
